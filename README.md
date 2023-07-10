@@ -1,5 +1,5 @@
 
-# Customized-CLI-Commads
+# Customized-CLI-Commands
 Simple code to create a customized CLI commands using nodeJS.
 In this project the customized CLI commands used to create/delete six directories for example to use at an angular project: 
 * components
