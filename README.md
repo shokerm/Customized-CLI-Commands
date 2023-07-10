@@ -11,6 +11,7 @@ In this project the customized CLI commands used to create/delete six directorie
 
 ## Table Of Content
 - [Installation](#installation)
+- [Images](#images)
 
 ## Installation
 
@@ -36,6 +37,9 @@ Install with npm:
 ```bash
   npm install -g
 ```
+
+## Images
+
 ![Screenshot 2023-07-10 212630](https://github.com/shokerm/Customized-CLI-Commands/assets/96984377/dee53630-05a7-4da4-ba15-88e00f18f529)
 ![Screenshot 2023-07-10 212950del](https://github.com/shokerm/Customized-CLI-Commands/assets/96984377/ff43f01c-f659-436c-ac7a-da29a0043fab)
 ![Screenshot 2023-07-10 213027](https://github.com/shokerm/Customized-CLI-Commands/assets/96984377/84385da9-ab76-4dcf-9b3a-e47af7d8e5ac)
