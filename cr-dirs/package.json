@@ -1,0 +1,15 @@
+{
+  "name": "cr-dirs",
+  "version": "1.0.0",
+  "description": "create dirs for angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moshe shoker",
+  "license": "ISC",
+  "bin":{
+    "cr-dirs": "./cli.js"
+  }
+  
+}
